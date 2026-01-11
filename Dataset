@@ -1,0 +1,9 @@
+Dataset Source
+
+The dataset used in this project was collected from Kaggle.
+
+Dataset name: Music Lyrics Dataset
+Link: https://www.kaggle.com/datasets/juicobowley/drake-lyrics
+
+Due to size and license restrictions, the dataset is not uploaded to this repository.
+The dataset is downloaded directly in Google Colab using Kaggle API.

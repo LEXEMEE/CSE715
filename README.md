@@ -26,7 +26,7 @@ Course Information
 
 Course Name: CSE 715 – Neural Networks
 Project Type: Unsupervised Learning Project
-Student GitHub: https://github.com/LEXEME
+Student GitHub: https://github.com/LEXEMEE/CSE715
 
 Future Work
 
